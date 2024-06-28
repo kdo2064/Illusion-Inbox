@@ -1,6 +1,5 @@
 # Illusion-Inbox Tool - README
-
-![Illusion-Inbox Banner](https://github.com/kdo2064/Illusion-Inbox/blob/main/assest/logo.png?raw=true)
+<center>![Illusion-Inbox Banner](https://github.com/kdo2064/Illusion-Inbox/blob/main/assest/logo.png?raw=true)</center>
 
 ## Illusion-Inbox Tool
 
