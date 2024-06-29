@@ -11,8 +11,7 @@ def check_os():
     if os_name == 'Windows':
         os.system('python .\\windows\\run.py')
     elif os_name == 'Linux':
-        # Check if running in Termux
-        if 'com.termux' in os.listdir('/data/data'):
+        if 'TERMUX_PREFIX' in os.environ:
             os.system('cd linux && python3 run.py')
         else:
             os.system('cd linux && python3 run.py')
