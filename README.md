@@ -1,52 +1,67 @@
-# Illusion-Inbox Tool
+# Illusion-Img (GUI)
+<img src="https://github.com/kdo2064/Illusion-Img/blob/main/Assest/program.png?raw=true">
+<img src='https://i.giphy.com/11lxCeKo6cHkJy.webp' align='right' width='200rem'>
 
-![Illusion-Inbox Banner](https://github.com/kdo2064/Illusion-Inbox/blob/main/assest/logo.png?raw=true)
+This program provides a **Graphical User Interface (GUI)** to convert images into "invisible" images that can bypass Instagram’s visibility on the Android app. The bug works exclusively on the Instagram Android app and this tool operates on both Linux and Windows platforms.
 
-## Illusion-Inbox Tool
+## Features
+- **Easy-to-use GUI** for image conversion.
+- Converts any image into an invisible format for Instagram on Android.
+- Only works on Linux and Windows operating systems.
 
-**Illusion-Inbox** is a fictional email spoofing tool created for fun and educational purposes. This tool includes built-in limits to prevent abuse:
+## Installation
 
-- **No abusive language allowed in spoofed emails.**
-- **Strict usage limits to discourage misuse.**
-- **Designed solely for educational purposes; not to be used for illegal activities.**
+### Prerequisites
+- Python 3.x installed on your machine.
+- Required libraries listed in `requirements.txt`.
 
-Our team, **Team Illusion**, emphasizes that we are not responsible for any illegal activity conducted using this tool. Legal consequences may follow if used improperly.
-
-
-### Installation
-
-#### Windows
-
+### Install on Linux
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kdo2064/Illusion-Inbox.git
-   cd Illusion-Inbox
+   git clone https://github.com/kdo2064/Illusion-Img.git
+   cd Illusion-Img
    ```
 
-2. Run the program:
+2. Install the required dependencies:
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+
+3. Run the program:
+   ```bash
+   python3 main.py
+   ```
+
+### Install on Windows
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kdo2064/Illusion-Img.git
+   cd Illusion-Img
+   ```
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the program:
    ```bash
    python main.py
    ```
 
-#### Debian/Linux
+## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kdo2064/Illusion-Inbox.git
-   cd Illusion-Inbox
-   ```
+1. Open the program by running `python3 main.py` on Linux or `python main.py` on Windows.
+2. Use the **GUI** to upload your image.
+3. Click the **Convert** button to generate the invisible image.
+4. Upload the converted image to Instagram via the Android app, where it will be invisible.
 
-2. Run the program:
-   ```bash
-   python3 main.py
-   ```
-<img src='https://i.giphy.com/11lxCeKo6cHkJy.webp' align='right' width='200rem'>
+### Demo
 
-### Disclaimer
+[![Demo](https://github.com/kdo2064/Illusion-Img/blob/main/Assest/program.png?raw=true)](https://github.com/kdo2064/Illusion-Img)
 
-**Email spoofing is illegal and unethical. This tool is for educational purposes only. Misuse of this tool can lead to severe legal consequences.**
+For a full video walkthrough on how to use the program, check out this [video tutorial](https://github.com/kdo2064/Illusion-Img).
 
-By using **Illusion-Inbox**, you agree to use it responsibly and understand the legal implications of misuse. **Team Illusion** is not responsible for any illegal activity conducted using this tool.
-
+---
 ## Visiter
 <img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
