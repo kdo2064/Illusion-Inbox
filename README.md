@@ -38,7 +38,7 @@ Our team, **Team Illusion**, emphasizes that we are not responsible for any ille
 
 2. Run the program:
    ```bash
-   python3 run.py
+   python3 main.py
    ```
 <img src='https://i.giphy.com/11lxCeKo6cHkJy.webp' align='right' width='200rem'>
 
