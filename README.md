@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&weight=800&size=25&duration=4000&pause=500&color=D1147A&center=true&vCenter=true&width=435&lines=EMAIL+SPOOFING+TOOLKIT;EDUCATIONAL+RESEARCH;TEAM+ILLUSION)
 
-![Illusion-Inbox Banner](assest/logo.png)
+![Illusion-Inbox Banner](assest/logo.jpg)
 
 ```diff
 + A sophisticated email spoofing simulation toolkit
