@@ -1,7 +1,7 @@
 # 🎭 Illusion-Inbox v2.0 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&weight=800&size=25&duration=4000&pause=500&color=D1147A&center=true&vCenter=true&width=435&lines=EMAIL+SPOOFING+TOOLKIT;EDUCATIONAL+RESEARCH;TEAM+ILLUSION+SINCRYPTION)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&weight=800&size=25&duration=4000&pause=500&color=D1147A&center=true&vCenter=true&width=435&lines=EMAIL+SPOOFING+TOOLKIT;EDUCATIONAL+RESEARCH;TEAM+ILLUSION+&+SINCRYPTION)
 
 ![Illusion-Inbox Banner](assest/logo.jpg)
 
