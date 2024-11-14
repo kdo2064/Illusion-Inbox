@@ -1,52 +1,78 @@
-# Illusion-Inbox Tool - README
+# 🎭 Illusion-Inbox v2.0 
+<div align="center">
 
-![Illusion-Inbox Banner](https://github.com/kdo2064/Illusion-Inbox/blob/main/assest/logo.png?raw=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&weight=800&size=25&duration=4000&pause=500&color=D1147A&center=true&vCenter=true&width=435&lines=EMAIL+SPOOFING+TOOLKIT;EDUCATIONAL+RESEARCH;TEAM+ILLUSION)
 
-## Illusion-Inbox Tool
+![Illusion-Inbox Banner](assest/logo.png)
 
-**Illusion-Inbox** is a fictional email spoofing tool created for fun and educational purposes. This tool includes built-in limits to prevent abuse:
+```diff
++ A sophisticated email spoofing simulation toolkit
+- For educational and research purposes only
+! Created by Team Illusion: KDO & Zork
+```
+</div>
 
-- **No abusive language allowed in spoofed emails.**
-- **Strict usage limits to discourage misuse.**
-- **Designed solely for educational purposes; not to be used for illegal activities.**
+## ⚠️ [ CRITICAL ADVISORY ]
 
-Our team, **Team Illusion**, emphasizes that we are not responsible for any illegal activity conducted using this tool. Legal consequences may follow if used improperly.
+```yaml
+SECURITY PROTOCOLS:
+    - Zero Tolerance: No abusive content allowed
+    - Rate Limiting: Controlled operations
+    - Protection: Built-in anti-malicious safeguards
+```
 
+## 🛠️ [ DEPLOYMENT SEQUENCE ]
 
-### Installation
+### 🐧 Linux/Termux Installation
+```bash
+# Clone the matrix
+git clone https://github.com/kdo2064/Illusion-Inbox.git
 
-#### Windows
+# Enter the void
+cd Illusion-Inbox
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kdo2064/Illusion-Inbox.git
-   cd Illusion-Inbox
-   ```
+# Initialize the system
+python3 main.py
+```
 
-2. Run the program:
-   ```bash
-   python main.py
-   ```
+<div align="center">
 
-#### Linux/Termux
+> ⚡ **SYSTEM REQUIREMENTS**: Linux-based environments only | Windows incompatible ⚡
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kdo2064/Illusion-Inbox.git
-   cd Illusion-Inbox
-   ```
+</div>
 
-2. Run the program:
-   ```bash
-   python3 main.py
-   ```
-<img src='https://i.giphy.com/11lxCeKo6cHkJy.webp' align='right' width='200rem'>
+## ⚖️ [ LEGAL PROTOCOL ]
 
-### Disclaimer
+```diff
+- WARNING: CONTROLLED EDUCATIONAL INSTRUMENT
+! Email spoofing is prohibited by law
++ Research & demonstration only
+@@ User assumes all legal liability @@
+```
 
-**Email spoofing is illegal and unethical. This tool is for educational purposes only. Misuse of this tool can lead to severe legal consequences.**
+## 🚫 [ DISCLAIMER ]
 
-By using **Illusion-Inbox**, you agree to use it responsibly and understand the legal implications of misuse. **Team Illusion** is not responsible for any illegal activity conducted using this tool.
+<div align="center">
 
-## Visiter
-<img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
+```
+Team Illusion holds zero liability for unauthorized use
+Operating this tool implies complete legal responsibility
+```
+
+</div>
+
+## 👨‍💻 [ ARCHITECTS ]
+
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/kdo2064"><img src="https://img.shields.io/badge/KDO-Developer-blue?style=flat-square&logo=github"></a></td>
+        <td align="center"><a href="https://github.com/samay825"><img src="https://img.shields.io/badge/Zork-Developer-red?style=flat-square&logo=github"></a></td>
+    </tr>
+</table>
+
+<div align="center">
+
+---
+*"In the world of bits and bytes, ethics light our path."*
+
+</div>
