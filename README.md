@@ -11,7 +11,6 @@
 ! Created by Team Illusion: KDO & Zork
 ```
 </div>
-
 ## ⚠️ [ CRITICAL ADVISORY ]
 
 ```yaml
@@ -19,6 +18,7 @@ SECURITY PROTOCOLS:
     - Zero Tolerance: No abusive content allowed
     - Rate Limiting: Controlled operations
     - Protection: Built-in anti-malicious safeguards
+    - Note: Cannot spoof emails from major domains (@gmail.com, @facebook.com, etc.)
 ```
 
 ## 🛠️ [ DEPLOYMENT SEQUENCE ]
@@ -32,7 +32,11 @@ git clone https://github.com/kdo2064/Illusion-Inbox.git
 cd Illusion-Inbox
 
 # Initialize the system
+# For regular Linux/Termux
 python3 main.py
+
+# For Parrot OS/Kali Linux
+sudo python3 main.py
 ```
 
 <div align="center">
